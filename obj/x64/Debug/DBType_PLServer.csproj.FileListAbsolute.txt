@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\bin\x64\Debug\DBType_PLServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\bin\x64\Debug\DBType_PLServer.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\obj\x64\Debug\DBType_PLServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\obj\x64\Debug\DBType_PLServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\obj\x64\Debug\DBType_PLServer.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\bin\x64\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsApplication1\DBType_PLServer\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\OCR\DBType_PLServer\bin\x64\Debug\DBType_PLServer.dll
+C:\Users\User\Desktop\OCR\DBType_PLServer\bin\x64\Debug\DBType_PLServer.pdb
+C:\Users\User\Desktop\OCR\DBType_PLServer\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\OCR\DBType_PLServer\bin\x64\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\OCR\DBType_PLServer\obj\x64\Debug\DBType_PLServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OCR\DBType_PLServer\obj\x64\Debug\DBType_PLServer.dll
+C:\Users\User\Desktop\OCR\DBType_PLServer\obj\x64\Debug\DBType_PLServer.pdb
